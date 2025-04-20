@@ -1,0 +1,53 @@
+/* Simple dark portfolio theme */
+
+body {
+    margin: 0;
+    font-family: 'Fira Code', monospace;
+    background-color: #121212;
+    color: #e0e0e0;
+    line-height: 1.6;
+  }
+  
+  a {
+    color: #90caf9;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #1e1e1e;
+    border-bottom: 1px solid #333;
+  }
+  
+  header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  
+  section {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  .project {
+    margin-bottom: 1.5rem;
+    padding: 1rem;
+    background-color: #1e1e1e;
+    border-left: 3px solid #90caf9;
+    border-radius: 4px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #1e1e1e;
+    color: #777;
+    margin-top: 2rem;
+  }
+  
