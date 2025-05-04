@@ -2,13 +2,21 @@
 layout: default
 title: Home
 ---
+
 <section id="projects">
   <h2>My Game Projects</h2>
 
   <div class="project">
-    <h3>Awesome Platformer</h3>
-    <p>A 2D platform game built in C++ with SDL2. Features physics-based jumping and procedural levels.</p>
-    <a href="https://github.com/KristianKKD/awesome-platformer">GitHub Repo</a>
+    <h3><a href="https://krabgor.itch.io/purgatory">Can't Escape: Purgatory</a></h3>
+    <p>A short and dark psychological walking-sim in which the player is trapped in a never ending corridor.</p>
+
+    <div class="carousel">
+      <button class="prev" onclick="changeSlide(-1)">&#10094;</button>
+      <a href="https://krabgor.itch.io/purgatory">
+        <img id="carousel-image" src="/assets/purgatory/p1.png" alt="Can't Escape: Purgatory Screenshot">
+      </a>
+      <button class="next" onclick="changeSlide(1)">&#10095;</button>
+    </div>
   </div>
 
   <div class="project">
@@ -17,5 +25,6 @@ title: Home
     <a href="https://github.com/KristianKKD/space-shooter">GitHub Repo</a>
   </div>
 
-  <!-- Add more games here -->
+  <link rel="stylesheet" href="/GameProjects/style.css">
+  <script src="/GameProjects/script.js" defer></script>
 </section>

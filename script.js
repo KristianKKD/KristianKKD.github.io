@@ -1,5 +1,5 @@
 // Placeholder for future enhancements
-console.log("Welcome to my portfolio site!");
+console.log("Welcome to my portfolio!");
 
 require('dotenv').config();
 
