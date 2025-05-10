@@ -4,8 +4,6 @@ title: Contact Me
 ---
 
 <section id="contact">
-  <h2>Contact Me</h2>
-
 <div class="contact-container">
   <div class="left-panel">
     <h2>Other Info</h2>
@@ -51,4 +49,6 @@ title: Contact Me
   </div>
 </div>
 
+  <link rel="stylesheet" href="/ContactMe/style.css">
+  <script src="/ContactMe/script.js" defer></script>
 </section>
