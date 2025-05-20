@@ -307,10 +307,10 @@ footer {
   border-top: 1px solid #333;
 }
 
-footer a {
+a {
   color: #66ccff;
   text-decoration: none;
-  margin: 0 10px;
+  margin: 0px;
 }
 
 footer a:hover {
