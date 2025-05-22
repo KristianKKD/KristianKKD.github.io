@@ -13,7 +13,12 @@ title: Home
       <div class="game-links">
         <a href="https://krabgor.itch.io/purgatory" class="game-btn">Play on Itch.io</a>
       </div>
-    </div>
+
+  <p class="sub-btn-label">Other Links:</p>
+  <div class="game-sub-buttons">
+    <a href="https://github.com/KristianKKD/CantEscapePurgatory" class="sub-btn">GitHub</a>
+  </div>
+</div>
     
     <div class="game-media">
       <div class="carousel-container">
@@ -50,7 +55,12 @@ title: Home
       <div class="game-links">
         <a href="https://krabgor.itch.io/potion-seller" class="game-btn">Play on Itch.io</a>
       </div>
-    </div>
+
+  <p class="sub-btn-label">Other Links:</p>
+  <div class="game-sub-buttons">
+    <a href="https://github.com/KristianKKD/PotionSeller" class="sub-btn">GitHub</a>
+  </div>
+  </div>
     
     <div class="game-media">
       <div class="carousel-container">
@@ -85,7 +95,12 @@ title: Home
       <div class="game-links">
         <a href="https://krabgor.itch.io/silent-tales" class="game-btn">Play on Itch.io</a>
       </div>
-    </div>
+
+  <p class="sub-btn-label">Other Links:</p>
+  <div class="game-sub-buttons">
+    <a href="https://github.com/KristianKKD/SilentTales" class="sub-btn">GitHub</a>
+  </div>
+</div>
     
     <div class="game-media">
       <div class="carousel-container">
@@ -95,10 +110,6 @@ title: Home
           </a>
         </div>
         
-        <!-- If you only have one image, you can choose to hide navigation or keep it for consistency -->
-        <!-- <button class="carousel-prev">&#10094;</button>
-        <button class="carousel-next">&#10095;</button>
-        <div class="carousel-dots"></div> -->
       </div>
     </div>
   </div>
@@ -112,7 +123,12 @@ title: Home
       <div class="game-links">
         <a href="https://krabgor.itch.io/purgatory" class="game-btn">Play on Itch.io</a>
       </div>
-    </div>
+
+  <p class="sub-btn-label">Other Links:</p>
+  <div class="game-sub-buttons">
+    <a href="https://github.com/KristianKKD/PurgatorysHeart" class="sub-btn">GitHub</a>
+  </div>
+</div>
     
     <div class="game-media">
       <div class="carousel-container">
@@ -160,7 +176,11 @@ title: Home
       <div class="game-links">
         <a href="https://krabgor.itch.io/critically-anomalous" class="game-btn">Play on Itch.io</a>
       </div>
-    </div>
+  <p class="sub-btn-label">Other Links:</p>
+  <div class="game-sub-buttons">
+    <a href="https://github.com/KristianKKD/CriticallyAnomalous" class="sub-btn">GitHub</a>
+  </div>
+</div>
     
     <div class="game-media">
       <div class="carousel-container">
@@ -198,7 +218,11 @@ title: Home
       <div class="game-links">
         <a href="https://krabgor.itch.io/lumber" class="game-btn">Play on Itch.io</a>
       </div>
-    </div>
+  <p class="sub-btn-label">Other Links:</p>
+  <div class="game-sub-buttons">
+    <a href="https://github.com/KristianKKD/Lumber" class="sub-btn">GitHub</a>
+  </div>
+</div>
     
     <div class="game-media">
       <div class="carousel-container">
